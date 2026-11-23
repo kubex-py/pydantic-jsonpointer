@@ -7,7 +7,7 @@
 **JSONPointer ([RFC 6901](https://www.rfc-editor.org/rfc/rfc6901)) implementation for Pydantic 2.x.** A typed `JsonPointer` string for use in Pydantic models, plus a traversal API that walks `dict` / `list` / `pydantic.BaseModel` graphs through a pluggable adapter protocol.
 
 [Get Started](getting-started/installation.md){ .md-button .md-button--primary }
-[GitHub](https://github.com/codemageddon/pydantic-jsonpointer){ .md-button }
+[GitHub](https://github.com/kubex-py/pydantic-jsonpointer){ .md-button }
 
 ---
 

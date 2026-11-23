@@ -1,8 +1,8 @@
 site_name: pydantic-jsonpointer
 site_url: https://pydantic-jsonpointer.codemageddon.me/
 site_description: JSONPointer (RFC 6901) implementation for Pydantic 2.x.
-repo_url: https://github.com/codemageddon/pydantic-jsonpointer
-repo_name: codemageddon/pydantic-jsonpointer
+repo_url: https://github.com/kubex-py/pydantic-jsonpointer
+repo_name: kubex-py/pydantic-jsonpointer
 edit_uri: edit/main/docs/
 
 docs_dir: docs

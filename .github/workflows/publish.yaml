@@ -5,7 +5,7 @@
 #   https://pypi.org/manage/project/pydantic-jsonpointer/settings/publishing/
 #
 # Trusted publisher settings:
-#   Owner:         codemageddon
+#   Owner:         kubex-py
 #   Repository:    pydantic-jsonpointer
 #   Workflow name: publish.yaml
 #   Environment:   pypi
