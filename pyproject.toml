@@ -29,9 +29,9 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://pydantic-jsonpointer.codemageddon.me/"
-Repository = "https://github.com/codemageddon/pydantic-jsonpointer.git"
-Issues = "https://github.com/codemageddon/pydantic-jsonpointer/issues"
-Changelog = "https://github.com/codemageddon/pydantic-jsonpointer/blob/main/CHANGELOG.md"
+Repository = "https://github.com/kubex-py/pydantic-jsonpointer.git"
+Issues = "https://github.com/kubex-py/pydantic-jsonpointer/issues"
+Changelog = "https://github.com/kubex-py/pydantic-jsonpointer/blob/main/CHANGELOG.md"
 Documentation = "https://pydantic-jsonpointer.codemageddon.me/"
 
 [build-system]
